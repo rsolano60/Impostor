@@ -4,7 +4,7 @@ Login ID: solanor
 Course: CSCI455x
 Programming Assignment #4
 USC Student ID: 5620566399
-e-mail: rsolano60@hotmail.com
+e-mail: rsolano60@gmail.com
  */
 import java.util.ArrayList;
 import java.util.LinkedList;
